@@ -1,10 +1,10 @@
 ## micro-expressions_AIDeepDive
 
 
-#Goal 
+*Goal *
 Determine if micro-expressions can reveal hidden emotions 
 
-#Background
+*Background*
 •	Researched over fifty papers in emotion, micro-expression ppg, rppg and affective computing  in order to investigate how aligned facial expression are to inner emotions. This is useful in understanding truthfulness, comfort levels and subjectivism. 
 
 **Data**
